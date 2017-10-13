@@ -14,7 +14,7 @@ ge17 <- bes.2017.raw %>%
   summarise(
     Con = sum(wt_new_W13[generalElectionVote == "Conservative"], na.rm=T),
     Lab = sum(wt_new_W13[generalElectionVote == "Labour"], na.rm=T),
-    All = sum(wt_new_W13, na.rm=T)
+    all = sum(wt_new_W13[generalElectionVote != "Don't know"], na.rm=T)
   ) %>%
   ungroup %>%
   mutate(
