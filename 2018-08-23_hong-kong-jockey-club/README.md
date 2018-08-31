@@ -1,3 +1,7 @@
+# Hong Kong Jockey Club data
+
+Data compiled in the reporting of the story [How the Hong Kong Jockey Club exaggerates its charity](https://www.ft.com/content/5ca456c0-6fb6-11e8-92d3-6c13e5c92914).
+
 ## Description of source
 
 Data on all pledges made by the Hong Kong Jockey Club’s charity arm, first as a subsidiary (Hong Kong Jockey Club (Charities) Ltd) of the club from July 1, 1979 to June 30, 1993, then as a charitable trust (Hong Kong Jockey Club Charities Trust) from July 1, 1993 to June 30, 2017.
